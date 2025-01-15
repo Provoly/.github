@@ -18,10 +18,6 @@ Contributions are always welcome, but this repository is not really ready for ex
 
 [provoly-back](https://github.com/Provoly/provoly-back-public) : backend services
 
-[provoly-hypervisor-back](https://github.com/Provoly/provoly-hypervisor-back-public) : Hypervisor backend
-
-[provoly-hypervisor](https://github.com/Provoly/provoly-hypervisor-public) : Hypervisor frontend
-
 [See more repositories](https://github.com/orgs/Provoly/repositories)
 
 
