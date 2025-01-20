@@ -18,6 +18,8 @@ Contributions are always welcome, but this repository is not really ready for ex
 
 [provoly-back](https://github.com/Provoly/provoly-back-public) : backend services
 
+[provoly-deploy](https://github.com/Provoly/provoly-deploy-public) : deployement chart
+
 [See more repositories](https://github.com/orgs/Provoly/repositories)
 
 
